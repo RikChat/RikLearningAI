@@ -15,7 +15,13 @@
     "axios": "^1.4.0",
     "clsx": "^1.2.1",
     "prisma": "^5.8.0",
-    "pg": "^8.11.0"
+    "pg": "^8.11.0",
+
+    "--- FIXED DEPENDENCIES ---": "",
+    "jsonwebtoken": "^9.0.0",
+    "bcrypt": "^5.1.0",
+    "node-fetch": "2.6.7",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "typescript": "5.4.2",
@@ -23,6 +29,12 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.24",
     "eslint": "8.45.0",
-    "eslint-config-next": "13.4.10"
+    "eslint-config-next": "13.4.10",
+
+    "--- OPTIONAL TYPES ---": "",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/bcrypt": "^5.0.2",
+    "@types/node-fetch": "^2.6.4",
+    "@types/uuid": "^9.0.2"
   }
 }
