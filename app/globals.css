@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next { height: 100%; }
+
+.btn { @apply px-4 py-2 rounded-lg shadow-sm; }
+.card { @apply bg-white p-4 rounded-2xl shadow; }
